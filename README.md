@@ -1,0 +1,35 @@
+# D-mart Sales Analysis
+🎯 Objectives
+
+Clean and organize the D-Mart sales dataset.
+
+Apply Excel formulas and functions for data analysis.
+
+Analyze sales and product-related information.
+
+Create Pivot Tables for summarizing data.
+
+Develop charts and visualizations to represent key findings.
+
+Identify useful business insights from the dataset.
+
+
+🛠️ Tools & Techniques
+
+Microsoft Excel
+
+Data Cleaning
+
+Excel Formulas & Functions
+
+Pivot Tables
+
+Pivot Charts
+
+Data Visualization
+
+Basic Business Analysis
+
+📈 Key Analysis
+
+The project analyzes different aspects of the D-Mart sales data, including product performance, sales trends, customer-related information, and other important business metrics. Pivot Tables and charts are used to summarize the data and make the results easier to understand.
